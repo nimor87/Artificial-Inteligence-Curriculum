@@ -22,7 +22,7 @@ This is a starting guide for everyone trying to get into artificial intelligence
 
 - Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville: [Free Online Book](http://www.deeplearningbook.org/)
 - Andrew Ng's Deep Learning Specialization: [Coursera](https://www.coursera.org/specializations/deep-learning)
-- Fast.ai Courses by Jeremy Howard and Rachel Thoman: [Part 1](http://course.fast.ai/)/ [Part 2](http://course.fast.ai/part2.html)
+- Fast.ai Courses by Jeremy Howard and Rachel Thoman: [Part 1](http://course.fast.ai/) | [Part 2](http://course.fast.ai/part2.html)
 
 ### Neural Networks (NN)
 ### Convolutional Neural Networks (CNN)
