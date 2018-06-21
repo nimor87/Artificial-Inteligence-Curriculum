@@ -8,6 +8,8 @@ This is a starting guide for everyone trying to get into artificial intelligence
 - Calculus
 - Statistics
 
+- Mathematics for Machine Learning: [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
+
 ## Coding
 
 - Python
