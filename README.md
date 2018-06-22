@@ -4,8 +4,8 @@ This is a starting guide for everyone trying to get into artificial intelligence
 
 ## Mathematics
 
-- Linear Algebra
-- Calculus
+- Linear Algebra: [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- Calculus: [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - Statistics
 
 - Mathematics for Machine Learning: [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
@@ -17,6 +17,7 @@ This is a starting guide for everyone trying to get into artificial intelligence
 ## Machine Learning (ML)
 
 - Andrew Ng's ML Course: [Coursera](https://www.coursera.org/learn/machine-learning)
+- ML Crash Course by Google: [Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - Python ML Library: [scikit-learn](http://scikit-learn.org/stable/index.html)
 - [Kaggle](https://www.kaggle.com/)
 
@@ -35,5 +36,9 @@ This is a starting guide for everyone trying to get into artificial intelligence
 
 - [Keras](https://keras.io/)
 - [PyTorch](https://pytorch.org/)
+  - List of Tutorials: [GitHub](https://github.com/yunjey/pytorch-tutorial)
+  - PyTorch Frontend: [skorch](https://skorch.readthedocs.io/en/latest/)
+  - Deep Learning with PyTorch: [Book](https://books.google.de/books?id=DOlODwAAQBAJ&pg=PT322&lpg=PT322&dq=pytorch+accuracy&source=bl&ots=kn_Uk0hBNb&sig=YmAjC_Dqngw0JM2L7dGqpHjBAZE&hl=de&sa=X&ved=0ahUKEwiK1tqW5ObZAhWE6RQKHRiKDgcQ6AEIgwEwCQ#v=onepage&q&f=false)
+  - List of Tutorials, Projects, Libraries, Videos, Papers and Books: [GitHub](https://github.com/ritchieng/the-incredible-pytorch)
 
 ## Reinforcement Learning
