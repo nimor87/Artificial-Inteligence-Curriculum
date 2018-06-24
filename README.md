@@ -7,7 +7,6 @@ This is a starting guide for everyone trying to get into artificial intelligence
 - Linear Algebra: [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Calculus: [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - Statistics
-
 - Mathematics for Machine Learning: [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ## Coding
