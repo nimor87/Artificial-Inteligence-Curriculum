@@ -13,13 +13,17 @@ This is a starting guide for everyone trying to get into artificial intelligence
 ## Coding
 
 - Python
+  - [NumPy](http://www.numpy.org/)
+  - [Pandas](https://pandas.pydata.org/)
+  - [Matplotlib](https://matplotlib.org/)
+    - [Seaborn](https://seaborn.pydata.org/)
 
 ## Machine Learning (ML)
 
 - Andrew Ng's ML Course: [Coursera](https://www.coursera.org/learn/machine-learning)
 - ML Crash Course by Google: [Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - Python ML Library: [scikit-learn](http://scikit-learn.org/stable/index.html)
-- [Kaggle](https://www.kaggle.com/)
+- Platform for Data Science Competitions: [Kaggle](https://www.kaggle.com/)
 
 ## Deep Learning
 
