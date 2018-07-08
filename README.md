@@ -31,8 +31,17 @@ This is a starting guide for everyone trying to get into artificial intelligence
 - Fast.ai Courses by Jeremy Howard and Rachel Thoman: [Part 1](http://course.fast.ai/) | [Part 2](http://course.fast.ai/part2.html)
 
 ### Neural Networks (NN)
+
+- Neural Networks for Machine Learning by Prof. Geoffrey Hinton: [Coursera](https://www.coursera.org/learn/neural-networks)
+
 ### Convolutional Neural Networks (CNN)
+
+- Convolutional Neural Networks for Visual Recognition (Stanford University): [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 ### Recurrent Neural Networks (RNN)
+
+- Natural Language Processing with Deep Learning (Stanford University): [YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+
 ### Generative Adversarial Networks
 
 ### Frameworks
